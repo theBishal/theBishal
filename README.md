@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=FF5135&background=FF161600&multiline=true&width=435&lines=Hey!!+I+am+Bishal+Shrestha)](https://git.io/typing-svg) 
+#### - 🌱 I’m currently learning ...
 <!--
 **theBishal/theBishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
